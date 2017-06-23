@@ -1,1 +1,1 @@
-proje nemone
+"My first learning project"
